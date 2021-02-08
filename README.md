@@ -2,7 +2,7 @@
 
 
 - 💼 Je suis étudiant en Data Science & Intelligence Artificielle à l'ESILV ( Ecole d'ingénieurs du numérique - Ecole des Ingénieurs Léonard de Vinci)
-- 🌱 5 ans d'expérience dans le dévellopement web.
+- 🌱 5 ans d'expérience dans le dévellopement web. ( consulter mes [Réalisations](https://github.com/NandyBa/MesRealisations))
 - ⭐ Toujours prêt à transmettre mon expérience.
 - 🎯 Je vous aide à atteindre vos objectifs.
 
