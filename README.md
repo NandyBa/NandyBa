@@ -1,10 +1,12 @@
-### Bonjour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !
+## Bonjour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !
 
 
 - 💼 Je suis étudiant en Data Science & Intelligence Artificielle à l'ESILV ( Ecole d'ingénieurs du numérique - Ecole des Ingénieurs Léonard de Vinci)
 - 🌱 5 ans d'expérience dans le dévellopement web.
 - ⭐ Toujours prêt à transmettre mon expérience.
 - 🎯 Je vous aide à atteindre vos objectifs.
+
+## Les technologies et les languages de programation que j'utilise au quotidient:
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 
