@@ -2,9 +2,9 @@
 
 
 - 💼 Je suis étudiant en Data Science & Intelligence Artificielle à l'ESILV ( Ecole d'ingénieurs du numérique - Ecole des Ingénieurs Léonard de Vinci)
-- 🌱 5 ans d'expérience dans le dévellopement de solutions. ( consulter mes [Réalisations](https://github.com/NandyBa/MesRealisations))
 - ⭐ Toujours prêt à transmettre mon expérience.
 - 🎯 Je vous aide à atteindre vos objectifs.
+- 🌱 Consulter mes [Réalisations](https://github.com/NandyBa/MesRealisations).
 
 Ce qui me fassine dans les Data Sciences ce sont les possiblibilités quasi infini qu'elles offrent.  
 Mais ce que j'aime par dessus tout c'est la satisfaction lorsque j'entends ce mot tellement magique "Merci" après plusieurs heures de travails pour un client ou une communauté. 
