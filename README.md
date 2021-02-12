@@ -6,6 +6,9 @@
 - ⭐ Toujours prêt à transmettre mon expérience.
 - 🎯 Je vous aide à atteindre vos objectifs.
 
+Ce qui me fassine dans les Data Sciences ce sont les possiblibilités quasi infini qu'elles offrent.  
+Mais ce que j'aime par dessus tout c'est la satisfaction lorsque j'entends ce mot tellement magique "Merci" après plusieurs heures de travails pour un client ou une communauté. 
+
 ## Les technologies et les languages de programation que j'utilise au quotidient:
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
