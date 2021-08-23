@@ -31,8 +31,11 @@ Ce qui me fassine en Data Sciences ce sont les possiblibilités quasi infinies o
 
 </br>
 
+## Actualités
+En juillet j'ai remporté avec KRYPTOSPHERE® un prix The Graph durant l'Hackathon de l'ETHCC.
+
 ## Me contacter
 - [![Linkedin Badge](https://img.shields.io/badge/-nandyba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://fr.linkedin.com/in/nandyba)](https://www.linkedin.com/in/nandyba)
-- contact@nandyba.fr (pro uniquement)
+- contact@nandyba.fr (mails pro uniquement)
 
 ![Nandy Bâ github stats](https://github-readme-stats.vercel.app/api?username=NandyBa&show_icons=true&include_all_commits=true&count_private=true&hide=issues,stars,prs)
