@@ -7,7 +7,7 @@
 - 💼  Actuellement entrain d'apprendre React.
 
 Ce qui me fassine dans les Data Sciences ce sont les possiblibilités quasi infini qu'elles offrent.  
-Mais ce que j'aime par dessus tout c'est la satisfaction lorsque j'entends ce mot tellement magique "Merci" après plusieurs heures de travails pour un client ou une communauté. 
+Mais ce que j'aime par dessus tout c'est la satisfaction lorsque j'entends ce mot tellement magique "Merci" après plusieurs heures de travail pour un client ou une communauté. 
 
 ## Les technologies et les languages de programation que j'utilise au quotidient:
 
