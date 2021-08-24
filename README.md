@@ -31,6 +31,7 @@ Ce qui me fassine en Data Sciences ce sont les possiblibilités quasi infinies o
 
 </br>
 
+
 ## Actualités
 En juillet j'ai remporté avec KRYPTOSPHERE® un prix The Graph durant l'Hackathon de l'ETHCC.
 
