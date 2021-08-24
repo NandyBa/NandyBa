@@ -39,3 +39,11 @@ En juillet j'ai remporté avec KRYPTOSPHERE® un prix The Graph durant l'Hackath
 - contact@nandyba.fr (mails pro uniquement)
 
 ![Nandy Bâ github stats](https://github-readme-stats.vercel.app/api?username=NandyBa&show_icons=true&include_all_commits=true&count_private=true&hide=issues,stars,prs)
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Nandy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandyba" />
+
+</details>
+
