@@ -8,7 +8,7 @@
 
 Ce qui me fassine en Data Sciences ce sont les possiblibilités quasi infinies offertes.  
 
-## Les technologies et les languages de programation que j'utilise au quotidient:
+## Les technologies et les langages de programmation que j'utilise au quotidien :
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 
