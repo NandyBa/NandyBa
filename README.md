@@ -6,7 +6,7 @@
 - 🌱  Vous pouvez consulter mes réalisations [ici](https://github.com/NandyBa/MesRealisations).
 - 💼  Actuellement entrain d'apprendre React.
 
-Ce qui me fassine en Data Sciences ce sont les possiblibilités quasi infinies offertes.  
+Ce qui me facine en Data Sciences ce sont les possiblibilités quasi infinies offertes.  
 
 ## Les technologies et les langages de programmation que j'utilise au quotidien :
 
