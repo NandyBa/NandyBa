@@ -1,7 +1,5 @@
 ## Bonjour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !
 
-https://debank.com/profile/0x005f16f017aa933bb41965b52848ceb8ee48b171
-
 
 - 📊  Je suis étudiant en Data Science & Intelligence Artificielle à l'ESILV ( Ecole d'ingénieurs du numérique - Ecole des Ingénieurs Léonard de Vinci)
 - 🎯  Je vous aide à atteindre vos objectifs. Construisons ensemble vos projets.
