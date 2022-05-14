@@ -4,7 +4,6 @@
 - 📊  Je suis étudiant en Data Science & Intelligence Artificielle à l'ESILV ( Ecole d'ingénieurs du numérique - Ecole des Ingénieurs Léonard de Vinci)
 - 🎯  Je vous aide à atteindre vos objectifs. Construisons ensemble vos projets.
 - 🌱  Vous pouvez consulter mes réalisations [ici](https://github.com/NandyBa/MesRealisations).
-- 💼  Actuellement entrain d'apprendre React.
 
 Ce qui me facine en Data Sciences ce sont les possiblibilités quasi infinies offertes.  
 
