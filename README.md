@@ -35,7 +35,7 @@ Ce qui me facine en Data Sciences ce sont les possiblibilités quasi infinies of
 - En juillet 2021, durant l'Hackathon de l'ETHCC, j'ai remporté avec KRYPTOSPHERE® l'un des prix The Graph.
 - En avril 2022, nous gagnons avec ma team 2 prix (Protocol Labs & second prix général) du Paris P2P Festival x Ethereum France.
 - En juillet 2022, durant l'Hackathon de l'ETHCC édition 2022, je remporte avec mon équipe 2 prix (1er prix catégorie Scalabilité & le prix projet prometteur de la blockchain Celo).
-- On octobre 2022, je remporte la seconde place de l'Hackathon Web3.0 Tezos dans la catégorie DeFi
+- En octobre 2022, je remporte la seconde place de l'Hackathon Web3.0 Tezos dans la catégorie DeFi
 
 ## Me contacter
 - [![Linkedin Badge](https://img.shields.io/badge/-nandyba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://fr.linkedin.com/in/nandyba)](https://www.linkedin.com/in/nandyba)
