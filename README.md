@@ -8,7 +8,7 @@
 
 Ce qui me facine en Data Sciences ce sont les possiblibilités quasi infinies offertes.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nandyba&row=2&column=3&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=nandyba&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Les technologies et les langages de programmation que j'utilise au quotidien :
 
