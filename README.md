@@ -6,7 +6,9 @@
 - 🎯  Je vous aide à atteindre vos objectifs. Construisons ensemble vos projets.
 - 🌱  Vous pouvez consulter mes réalisations [ici](https://github.com/NandyBa/MesRealisations).
 
-Ce qui me facine en Data Sciences ce sont les possiblibilités quasi infinies offertes.  
+Ce qui me facine en Data Sciences ce sont les possiblibilités quasi infinies offertes.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nandyba&row=2&column=3&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Les technologies et les langages de programmation que j'utilise au quotidien :
 
@@ -22,11 +24,11 @@ Ce qui me facine en Data Sciences ce sont les possiblibilités quasi infinies of
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
+<img align="left" alt="Docker" width="40px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br clear="all"/>
 
@@ -40,6 +42,4 @@ Ce qui me facine en Data Sciences ce sont les possiblibilités quasi infinies of
 ## Me contacter
 - [![Linkedin Badge](https://img.shields.io/badge/-nandyba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://fr.linkedin.com/in/nandyba)](https://www.linkedin.com/in/nandyba)
 - nandyba@hotmail.com (mails pro uniquement)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nandyba&row=2&column=3&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
