@@ -17,7 +17,7 @@
 [![trophy](https://github-trophies.vercel.app/?username=nandyba&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## Awards
+## Awards 🏆
 
 - In July 2021, during the ETHCC Hackathon, I won The Graph award with KRYPTOSPHERE®.
 - In April 2022, I won two awards (Protocol Labs & second prize overall) at the Paris P2P Festival x Ethereum France.
