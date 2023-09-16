@@ -6,7 +6,7 @@
 - **Tools**: Docker, MySQL
 - **Development Methodologies**: Agile, DevOps
 - **Version Control**: Git
-- **Database Management**: MySQL
+- **Database Management**: MySQL, MongoDb, Firebase
 - **Containerization**: Docker
 
 ## Contact Information
