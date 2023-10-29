@@ -19,9 +19,8 @@
 
 ## Awards 🏆
 
-- In July 2021, during the ETHCC Hackathon, I won The Graph award with KRYPTOSPHERE®.
-- In April 2022, I won two awards (Protocol Labs & second prize overall) at the Paris P2P Festival x Ethereum France.
-- In July 2022, during the ETHCC 2022 Hackathon, I won two awards (1st prize in the Scalability category & the promising blockchain project award from Celo).
-- In October 2022, I secured the second place in the Web3.0 Tezos Hackathon in the DeFi category.
 - In 2023, I won a price during ETH Global Paris and the public award during HEC Hackathon
-
+- In October 2022, I secured the second place in the Web3.0 Tezos Hackathon in the DeFi category.
+- In July 2022, during the ETHCC 2022 Hackathon, I won two awards (1st prize in the Scalability category & the promising blockchain project award from Celo).
+- In April 2022, I won two awards (Protocol Labs & second prize overall) at the Paris P2P Festival x Ethereum France.
+- In July 2021, during the ETHCC Hackathon, I won The Graph award with KRYPTOSPHERE®.
