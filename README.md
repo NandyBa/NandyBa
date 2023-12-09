@@ -18,7 +18,7 @@
 
 
 ## Awards 🏆
-- Novembre 2023, my team build 2 projets during ETH Global and won 3 prices : Best application on Polygon zkEVM, Most Cretative App by Mask, 2nd price by Near + many pool prices
+- Novembre 2023, my team build 2 projets during ETH Global Istanbul and won 3 prices : Best application on Polygon zkEVM, Most Cretative App by Mask, 2nd price by Near + many pool prices
 - In 2023, I won a price during ETH Global Paris and the public award during HEC Hackathon
 - In October 2022, I secured the second place in the Web3.0 Tezos Hackathon in the DeFi category.
 - In July 2022, during the ETHCC 2022 Hackathon, I won two awards (1st prize in the Scalability category & the promising blockchain project award from Celo).
