@@ -21,8 +21,6 @@
 - **Database Management**: MySQL, MongoDb, Firebase
 - **Containerization**: Docker
 
-- [![Linkedin Badge](https://img.shields.io/badge/-nandyba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://fr.linkedin.com/in/nandyba)](https://www.linkedin.com/in/nandyba)
-
 
 [![trophy](https://github-trophies.vercel.app/?username=nandyba&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
