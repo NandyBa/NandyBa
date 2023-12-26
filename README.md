@@ -24,3 +24,11 @@
 - In July 2022, during the ETHCC 2022 Hackathon, I won two awards (1st prize in the Scalability category & the promising blockchain project award from Celo).
 - In April 2022, I won two awards (Protocol Labs & second prize overall) at the Paris P2P Festival x Ethereum France.
 - In July 2021, during the ETHCC Hackathon, I won The Graph award with KRYPTOSPHERE®.
+
+- ## Contact Me
+<a href="https://twitter.com/nandy_ba" target="_blank">
+  <img <img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/nandyba" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
