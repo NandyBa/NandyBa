@@ -1,5 +1,7 @@
 ## Bonjour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !
 
+🏆 Active **builder** during international **Web3 hackathons** _(+20 prizes won, +25K in cash prize)_
+
 ## Awards 🏆
 - In Novembre 2023, my team build 2 projets during ETH Global Istanbul and won 3 prices : Best application on Polygon zkEVM, Most Cretative App by Mask, 2nd price by Near + many pool prices
 - In July 2023, I won a price during ETH Global Paris and the public award during HEC Hackathon
