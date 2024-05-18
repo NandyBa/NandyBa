@@ -2,7 +2,7 @@
 
   🏆 Active **builder** during international **Web3 hackathons** _(+20 prizes won, +30K in cash prize)_
   
-  🧑‍💻 Multiple experiences as **lead developer**
+  🧑‍💻 Multiple experiences as **lead developer** currently working at ACI
 
 ## Awards 🏆
 - In 2024: I earn 2 awards during: ETH Oxford and Argentina Gazathon 
