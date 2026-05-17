@@ -34,3 +34,6 @@
 </a>
 
 - **Email**: nandyba@hotmail.com (profesional contact only)
+
+
+CLAUDE-VERIF-7F3A9C2E-NANDY-2026
