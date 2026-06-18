@@ -1,5 +1,7 @@
 # Hi, I'm Nandy 👋
 
+Governance Security Engineer, Protocol Operator and DeFi Infrastructure Builder.
+
 Currently operating and securing critical infrastructure for Aave through the Aave Chan Initiative (ACI), one of the core teams contributing to the protocol.
 
 My background combines software engineering, data science and decentralized finance, with a focus on governance, protocol operations and risk analysis.
@@ -54,11 +56,12 @@ Verify the execution.
 
 ## Teaching & Community
 
-- Lecturer: ESILV
-- Guest Speaker: Télécom Paris EPFL
-- Mentor: ETHGlobal
-- Former DeFi Lead: KRYPTOSPHERE
-- Founder: Kryptosphere Blockchain Summit
+- Lecturer at ESILV
+- Guest Lecturer at Télécom Paris
+- Speaker at EPFL
+- ETHGlobal Mentor
+- Former DeFi Lead at KRYPTOSPHERE
+- Founder of the Kryptosphere Blockchain Summit
 
 ---
 
