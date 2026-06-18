@@ -1,8 +1,8 @@
 # Hi, I'm Nandy 👋
 
-Governance Security Engineer, Protocol Operator and DeFi Infrastructure Builder.
-
 Currently operating and securing critical infrastructure for Aave through the Aave Chan Initiative (ACI), one of the core teams contributing to the protocol.
+
+My background combines software engineering, data science and decentralized finance, with a focus on governance, protocol operations and risk analysis.
 
 ---
 
@@ -67,38 +67,26 @@ Verify the execution.
 
 ### Governance & Security
 
-Safe
-Tenderly
-Aave
+Safe • Tenderly • Aave
 
 ### Smart Contracts
 
-Solidity
-Foundry
-Hardhat
+Solidity • Foundry • Hardhat
 
 ### Development
 
-TypeScript
-Node.js
-Python
+TypeScript • Node.js • Python
 
 ### Infrastructure
 
-Docker
-GitHub Actions
-
----
-
-## Contact
-
-- X: @Nandy_Ba
-- LinkedIn: linkedin.com/in/nandyba
-- Telegram: @Nandyb
-- GitHub: github.com/NandyB
-
+Docker • GitHub Actions
 
 [![trophy](https://github-trophies.vercel.app/?username=nandyba&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Contact
 
+- X: [@Nandy_Ba](https://x.com/Nandy_ba)
+- LinkedIn: [linkedin.com/in/nandyba](https://linkedin.com/in/nandyba)
+- Telegram: @Nandyb
 - **Email**: nandyba@hotmail.com (profesional contact only)
+
