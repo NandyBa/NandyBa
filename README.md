@@ -54,12 +54,11 @@ Verify the execution.
 
 ## Teaching & Community
 
-- Lecturer — ESILV
-- Guest Lecturer — Télécom Paris
-- Guest Lecturer — EPFL
-- ETHGlobal Mentor
-- Former DeFi Lead — KRYPTOSPHERE
-- Founder — Kryptosphere Blockchain Summit
+- Lecturer: ESILV
+- Guest Speaker: Télécom Paris EPFL
+- Mentor: ETHGlobal
+- Former DeFi Lead: KRYPTOSPHERE
+- Founder: Kryptosphere Blockchain Summit
 
 ---
 
